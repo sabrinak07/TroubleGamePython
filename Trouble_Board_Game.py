@@ -1,7 +1,9 @@
-# Authors: Vanvuong Nguyen, Ramaisa Chowdhury, Sabrina Kessler
-# File Name: Trouble_Board_Game.py
-# Purpose: Group project final (Trouble Board Game) - Due 5/7
-# Date: 05/07/2025
+# Trouble Board Game
+# Authors: Sabrina Kessler, Vanvuong Nguyen, Ramaisa Chowdhury
+# Filename: Trouble_Board_Game.py
+# Description: A terminal-based multiplayer version of the classic "Trouble" board game using Python and OOP
+# Date: May 7, 2025
+
 
 import random
 

@@ -3,9 +3,9 @@
 A terminal-based multiplayer version of the classic *Trouble* board game, written in Python using object-oriented principles.
 
 ## Authors
+- Sabrina Kessler
 - Vanvuong Nguyen  
-- Ramaisa Chowdhury  
-- Sabrina Kessler  
+- Ramaisa Chowdhury    
 
 ## 📌 Features
 - Up to 4 players with custom color selection
