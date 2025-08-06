@@ -15,6 +15,8 @@ A terminal-based multiplayer version of the classic *Trouble* board game, writte
 - Text-based board rendering
 
 ## 🚀 How to Run
+
+Make sure you have Python 3 installed. Then run:
+
 ```bash
 python Trouble_Board_Game.py
-

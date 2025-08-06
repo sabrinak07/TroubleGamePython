@@ -4,7 +4,6 @@
 # Description: A terminal-based multiplayer version of the classic "Trouble" board game using Python and OOP
 # Date: May 7, 2025
 
-
 import random
 
 class Player:
